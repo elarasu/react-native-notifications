@@ -193,4 +193,5 @@ package-lock.json
 .history
 
 # Typescript build
-lib/dist/
+#lib/dist/
+android/local.properties
